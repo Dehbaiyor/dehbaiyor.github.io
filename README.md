@@ -6,5 +6,9 @@ Data Analytics, Machine/ Deep Learning, Programming (Python, R, SQL, C++), Scien
 
 # Projects
 ## Zindi-Uber Traffic Jam Prediction Challenge
-This notebook chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
+This chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
+
+## Nigerian 2019 ELections Data Analysis
+This is the Exploratory Data Analysis for Nigeria's 2019 Presidential Election Candidates' List
+You can view [here](https://dehbaiyor.github.io/2019-Elections)
