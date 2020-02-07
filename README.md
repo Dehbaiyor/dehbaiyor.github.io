@@ -4,4 +4,5 @@
 Machine/Deep Learning Engineer | Data Scientist | Petroleum Engineer
 
 ## Zindi-Uber Traffic Jam Prediction Challenge
-This notebook chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi - https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition/
+This notebook chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi
+[Visit](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
