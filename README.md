@@ -10,5 +10,5 @@ This chronicles my major learnings from the Uber traffic prediction competition 
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
 
 ## Nigerian 2019 ELections Data Analysis
-This is the Exploratory Data Analysis for Nigeria's 2019 Presidential Election Candidates' List
+This is the Exploratory Data Analysis for Nigeria's 2019 Presidential Election Candidates' List.
 You can view [here](https://dehbaiyor.github.io/2019-Elections)
