@@ -1,5 +1,5 @@
 # Contact  
-![image.png](attachment:pp.jfif)
+![image.png](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/pp.jfif)
 - https://www.linkedin.com/in/adebayo-oshingbesan 
 - oshingbesanadebayo@gmail.com 
  
