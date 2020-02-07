@@ -1,12 +1,12 @@
 # Profile summary
-You can check out my full profile [here](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/Profile.md)
+I enjoy using data science and machine learning techniques to solve problems. You can check out my full profile [here](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/Profile.md)
 
 # Projects
 ## Zindi-Uber Traffic Jam Prediction Challenge
 This chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
 
-## Nigerian 2019 ELections Data Analysis
+## Nigerian 2019 Elections Data Analysis
 This is the Exploratory Data Analysis for Nigeria's 2019 Presidential Election Candidates' List.
 You can view [here](https://dehbaiyor.github.io/2019-Elections)
 
