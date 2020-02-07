@@ -9,7 +9,7 @@ Passionate learner with a strong background in engineering and programming and a
 •	Teamwork and Leadership
 •	Written & Oral Communication
 
-#Projects
+# Projects
 ## Zindi-Uber Traffic Jam Prediction Challenge
 This notebook chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
