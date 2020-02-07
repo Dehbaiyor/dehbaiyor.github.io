@@ -1,8 +1,9 @@
-# Contact  
+ 
 ![image.png](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/pp.jfif)
+# Contact 
 - https://www.linkedin.com/in/adebayo-oshingbesan 
 - oshingbesanadebayo@gmail.com 
- 
+
 # PROFESSIONAL SUMMARY 
 Passionate learner with a strong background in engineering and programming and an in-depth knowledge of machine learning, data science and deep learning techniques. Interested in opportunities that will further my core competences.  
 ## Core Competencies 
