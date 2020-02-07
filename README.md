@@ -1,5 +1,5 @@
 # Profile summary
-You can cheeck out my full profile [here](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/Profile.md)
+You can check out my full profile [here](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/Profile.md)
 
 # Projects
 ## Zindi-Uber Traffic Jam Prediction Challenge
