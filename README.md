@@ -1,7 +1,7 @@
 # Profile summary
 Passionate learner with a strong background in engineering and programming and an in-depth knowledge of machine learning, data science and deep learning techniques. Interested in opportunities that will further my core competences. 
 
-- Core Competencies -
+  - Core Competencies -
 •	Data Analytics
 •	Machine/ Deep Learning
 •	Programming (Python, R, SQL, C++)	
