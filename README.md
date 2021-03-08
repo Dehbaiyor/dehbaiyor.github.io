@@ -2,6 +2,10 @@
 I enjoy using data science and machine learning techniques to solve problems. You can check out my full profile [here](https://github.com/Dehbaiyor/dehbaiyor.github.io/blob/master/Profile.md)
 
 # Projects
+## To promote or not to promote?
+This chronicles my major learnings from the Data Science Nigeria National AI Hackathon where I was 3rd out of 530 contestants.
+You can view [here](https://dehbaiyor.github.io/PromotionPrediction)
+
 ## Zindi-Uber Traffic Jam Prediction Challenge
 This chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
