@@ -48,7 +48,8 @@ Certification in Data Science, 2019
 # ACTIVITIES 
 ### Technical Papers, Presentations & Reports 
 - [Leak Detection in Natural Gas Pipelines Using Intelligent Models](https://www.onepetro.org/conference-paper/SPE-198738-MS) 
-- [Domestic Gas Utilization in Nigeria: Exploring the Potential of Compressed Natural Gas Using a Machine Learning Based Approach](https://www.academia.edu/389198220)
+- [Domestic Gas Utilization in Nigeria: Exploring the Potential of Compressed Natural Gas Using a Machine Learning Based Approach](https://www.academia.edu/38919822/Domestic_Gas_Utilization_in_Nigeria_Exploring_the_Potential_of_Compressed_Natural_Gas_CNG_Using_A_Machine_Learning_Based_Approach)
+- [Analysis of Mortgage Approval Using Machine Learning] (https://www.academia.edu/41592032/Analysis_of_Mortgage_Approvals_Using_Machine_Learning)
  
 ### Voluntary Activities
 - Academics and Research Minister - Carnegie Mellon University, Africa.
