@@ -6,6 +6,9 @@ I enjoy using data science and machine learning techniques to solve problems. Yo
 This chronicles my major learnings from the Data Science Nigeria National AI Hackathon where I was 3rd out of 530 contestants.
 You can view [here](https://dehbaiyor.github.io/PromotionPrediction)
 
+## News Recommender System
+This is a training file for a collaborative filtering recommender system. You can view [here](https://dehbaiyor.github.io/RecommenderSystem)
+
 ## Zindi-Uber Traffic Jam Prediction Challenge
 This chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
