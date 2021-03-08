@@ -13,6 +13,12 @@ This is a training file for a collaborative filtering recommender system. You ca
 This chronicles my major learnings from the Uber traffic prediction competition hosted on Zindi.
 You can view [here](https://dehbaiyor.github.io/Zindi-Uber-Traffic-Jam-Competition)
 
+## Before you call model.fit
+Machine learning advice. You can view [here](https://www.kaggle.com/dehbaiyor/before-you-call-model-fit)
+
+## Semantic Segmentation of Maize Crop
+This repo contains a UNet and FCNN semantic segmentation implementation for maize crop. You can view [here](https://dehbaiyor.github.io/SemanticSeg)
+
 ## Nigerian 2019 Elections Data Analysis
 This is the Exploratory Data Analysis for Nigeria's 2019 Presidential Election Candidates' List.
 You can view [here](https://dehbaiyor.github.io/2019-Elections)
