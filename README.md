@@ -6,6 +6,10 @@ I enjoy using data science and machine learning techniques to solve problems. Yo
 This chronicles my major learnings from the Data Science Nigeria National AI Hackathon where I was 3rd out of 530 contestants.
 You can view [here](https://dehbaiyor.github.io/PromotionPrediction)
 
+## WH-Questions Generation, Ranking and Answering Using Wikipedia Articles
+An automatic WH factoid questions generation, ranking and answering techniques from Wikipedia articles using machine learning, deep learning (T5-based transformer models), natural language processing, and sequence modelling.
+You can view [here](https://dehbaiyor.github.io/WH-QG-QA/)
+
 ## News Recommender System
 This is a training file for a collaborative filtering recommender system. You can view [here](https://dehbaiyor.github.io/RecommenderSystem)
 
