@@ -19,7 +19,7 @@ Machine learning engineer with 4 years of experience in using data analytics and
 
 # PROFESSIONAL EXPERIENCE 
 ## AI Research Engineer, IBM Research
-### June 2019 – till date
+### June 2021 – till date
 Conducting researching into increasing the fairness of common machine learning algorithms such as boosted trees, back propagation, and so on.
 
 ## Machine Learning Engineer, CypherCrescent Limited 
