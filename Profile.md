@@ -71,19 +71,19 @@ Certification in Data Science, 2019
 ### WH-Questions Generation, Ranking and Answering Using Wikipedia Articles
 - Designed an automatic WH factoid questions generation, ranking and answering techniques from Wikipedia articles using machine learning, deep learning (T5-based transformer models), natural language processing, and sequence modelling.
 
-### Technical Papers, Presentations & Reports 
+## Technical Papers, Presentations & Reports 
 - [Leak Detection in Natural Gas Pipelines Using Intelligent Models](https://www.onepetro.org/conference-paper/SPE-198738-MS) 
 - [Domestic Gas Utilization in Nigeria: Exploring the Potential of Compressed Natural Gas Using a Machine Learning Based Approach](https://www.academia.edu/38919822/Domestic_Gas_Utilization_in_Nigeria_Exploring_the_Potential_of_Compressed_Natural_Gas_CNG_Using_A_Machine_Learning_Based_Approach)
 - [Analysis of Mortgage Approval Using Machine Learning](https://www.academia.edu/41592032/Analysis_of_Mortgage_Approvals_Using_Machine_Learning)
  
-### Voluntary Activities
+## Voluntary Activities
 - Academics and Research Minister - Carnegie Mellon University, Africa.
 - AI+ City Lead - Data Science Nigeria
 - Functional Team Lead - Society of Petroleum Engineers 
 - Tutor/ Data Analyst - Educate An African Child 
 - Deputy Chief Correspondent – ZikPress Organization 
  
-### Key Awards & Achievements
+## Key Awards & Achievements
 - 1st place, GIZ-AI4D Africa Language Challenge.
 - 2nd Place of 100+ participants, Society of Petroleum Engineers’ Africa Paper Contest, 2020.
 - 5-time recipient, Annual Deans’ Honors Award – University of Ibadan, 2014 – 2019. 
