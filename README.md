@@ -1,5 +1,10 @@
 # Profile Summary
-I enjoy using data science and machine learning techniques to solve problems. You can check out my full profile [here](https://dehbaiyor.github.io/Profile/)
+I enjoy using data science and machine learning techniques to solve problems. You can check out my full profile [here](https://dehbaiyor.github.io/Profile/) 
+
+# Contact 
+- https://www.linkedin.com/in/adebayo-oshingbesan 
+- oshingbesanadebayo@gmail.com 
+- https://github.com/Dehbaiyor
 
 # Projects
 ### To promote or not to promote?
